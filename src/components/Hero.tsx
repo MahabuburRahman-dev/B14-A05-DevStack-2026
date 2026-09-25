@@ -34,7 +34,7 @@ export default function Hero() {
       <div className="flex justify-center md:justify-end">
         <div className="relative w-[260px] sm:w-[320px] md:w-[360px]">
           <img
-            src="./src/assets/banner-stack.png"
+            src="./assets/banner-stack.png"
             alt="Development Stack"
             className="h-auto w-full object-contain"
           />
